@@ -1,10 +1,39 @@
 {
-  "name": "new_name",
-  "desc": "new_desc",
+  "name": "audrey",
+  "desc": "mist/moon/void/bog/moss // interactives ⚘ alive",
+  "site": "http://loveme.computer",
   "port": [
-    "dat://2f21e3c122ef0f2555d3a99497710cd875c7b0383f998a2d37c02c042d598485/"
+    "dat://60f134e8fb243fbf4a0f8a252cc9aa09bdcf4ecac2efbcb8455aa01c8a04b4b0/index.html",
+    "dat://8b0c45125fe3136a79fa7ca9601da37965ca1bdfa76b35de2ff1d52d6df3cc8d/",
+    "dat://9c2ec6f5cdcc1cdc7a31c8df9b65128af7a89f00bb08819405351e48f3cfada0/",
+    "dat://d326c5f49fc2a72048c641a1eb4645f80f952b4f00c723f0af5617f1d9022be7",
+    "dat://60f134e8fb243fbf4a0f8a252cc9aa09bdcf4ecac2efbcb8455aa01c8a04b4b0"
   ],
-  "feed": [],
-  "site": "",
-  "dat": ""
+  "feed": [
+    {
+      "message": "hi i'm here 🌸",
+      "timestamp": 1508105233314
+    },
+    {
+      "message": "recent twitter bot collab generating svgs with text (@/indulgine on twitter)",
+      "timestamp": 1508108686940,
+      "editstamp": 1508108719303,
+      "media": "indulgine01.png"
+    },
+    {
+      "message": "@callil hi!",
+      "timestamp": 1508109217457,
+      "target": "dat://60f134e8fb243fbf4a0f8a252cc9aa09bdcf4ecac2efbcb8455aa01c8a04b4b0"
+    },
+    {
+      "message": "i just started and…… don't really know how to use rotonde or beaker yet! but… this is v intriguing",
+      "timestamp": 1508109833289
+    },
+    {
+      "message": "@noisegrrrl lol yeah i've been mis-clicking on stuff a lot because of the transparent bar",
+      "timestamp": 1508110530233,
+      "target": "dat://9c2ec6f5cdcc1cdc7a31c8df9b65128af7a89f00bb08819405351e48f3cfada0"
+    }
+  ],
+  "dat": "dat://49a043352e6bd3d00e8398b56c79b0dc3c3ec92f678259cb505ece6673e486cd/"
 }
