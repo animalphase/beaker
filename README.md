@@ -12,7 +12,7 @@ dat://49a043352e6bd3d00e8398b56c79b0dc3c3ec92f678259cb505ece6673e486cd/
 <br>
 
 <div style="clear: both;"/>
-If you're on Rotonde, paste a user's address (like mine above) into your Input field to 'follow' them.
+If you're on Rotonde, paste a user's address (like mine above) into your `Input` field to 'follow' them.
 <br><br>
 Since `dat://` is peer-to-peer, in Beaker, you can click the **menu ( ` ▼ ` )** in rightmost side of the URL bar, to get an option to **"Add to Library"**. If you add a site to your library like this, you become a seed! The more seeds, the more likely the site will be available to others.
 <br><br>
