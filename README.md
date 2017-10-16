@@ -3,27 +3,7 @@
 This repo is basically a profile on the Rotonde social network, and this one is mine :) It's built for the Beaker browser which allows p2p networking, no central servers needed! Follow the setup instructions below to start your own!
 
 ---
-
-<svg alt="audrey's Rotonde profile pic" title="audrey's Rotonde profile pic" width="65" height="65" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g id="planetary-group" class="rotate">
-    <circle cx="50" cy="50" r="36" fill="transparent" stroke="#4a4a4a" stroke-width=".35"/>
-    <circle cx="75" cy="75" r="11" fill="transparent" stroke="rgba(74,74,74,.65)" stroke-width=".35"/>
-  </g>
-  <style>
-    .rotate {
-      animation: clockwise 10s linear infinite;
-      transform-origin: center center;
-    }
-    @keyframes clockwise {
-      0% {
-        transform: rotate(0deg);
-      }
-      100% {
-        transform: rotate(360deg);
-      }
-    }
-  </style>
-</svg>
+<br>
 
 **`@audrey` on Rontode, find me in the Beaker Browser  at:**
 ```
